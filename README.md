@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-performing analysis on kickstarter data to uncover trends
+Performing analysis on kickstarter data to uncover hidden trends
 ### Purpose
 
 ## Analysis and Challenges
